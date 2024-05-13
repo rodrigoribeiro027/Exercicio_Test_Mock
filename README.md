@@ -33,7 +33,7 @@ pip install -r requirements.txt
 ```
 
 #### 5. veja a cobertura dos tests realizados.
-rode o comando o comando abaixo 
+rode o comando abaixo 
 ```bash
 pytest --cov .\test\
 ```
